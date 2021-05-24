@@ -1,1 +1,1 @@
-# java2_lekce8
+# Java2 Lekce 8 - příprava na projekt
